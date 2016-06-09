@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+    background-color: lightgrey;
+    width: 300px;
+    height:300px;
+}
+</style>
+</head>
+<body>
+
+<div>
+<h2>Phone</h2>
+1-800-123-789
+1-800-123-789
+</div>
+
+</body>
+</html>
